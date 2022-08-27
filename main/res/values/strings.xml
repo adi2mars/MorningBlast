@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Morning Blast</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_label1">Set Alarm</string>
+    <string name="action_settings">About</string>
+    <string name="tab_label2">Daily Update</string>
+    <string name="titleStart">Welcome to Morning Blast!</string>
+    <string name="startDescrip">This app will allow you to create alarms that will play your favorite songs from your Spotify Account. <b>Make sure you have Spotify installed and signed in to use this feature.</b> Apart from that you will get a daily update of news, weather, and a quote of the day to
+        start your day with an informative and inspiring blast.
+        Start your day with Morning Blast!</string>
+    <string name="about">Created By Aditya Kumar</string>
+
+
+    <string-array name="types_array">
+        <item>Playlist</item>
+        <item>Artist</item>
+        <item>Track</item>
+    </string-array>
+
+    <string-array name="types_news">
+        <item>Your Country\'s Top Headlines</item>
+        <item>World News</item>
+        <item>Your Country\'s Sports News</item>
+        <item>Science and Technology</item>
+        <item>Your Country\'s Business</item>
+    </string-array>
+
+</resources>
